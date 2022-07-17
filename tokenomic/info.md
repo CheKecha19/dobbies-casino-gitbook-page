@@ -2,9 +2,9 @@
 
 ## About:
 
-The **Dobbies casino** ecosystem combines the digital economy with live events, material goods and a physical community. **DCT** was created to exploit the economic potential of the ecosystem.&#x20;
+**"EWOO Labs"** ecosystem combines the digital economy with live events, material goods and a physical community. **DCT** was created to exploit the economic potential of the ecosystem.&#x20;
 
-**DCT** has a wide range of use cases: In addition to protocol management, **DCT** can be used to purchase items in the ecosystem, as well as as in-game currency for our games in the **Dobbies casino** ecosystem.&#x20;
+**DCT** has a wide range of use cases: In addition to protocol management, **DCT** can be used to purchase items in the ecosystem, as well as as in-game currency for our games in the "**EWOO Labs"** ecosystem.&#x20;
 
 ## Use cases:&#x20;
 
