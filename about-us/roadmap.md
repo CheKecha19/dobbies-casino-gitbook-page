@@ -4,7 +4,7 @@
 
 * [x] [Team assembly](team-info.md) & original design
 * [x] Mint testing
-* [x] [Website ](https://soldobbies.com)launch
+* [ ] [Website ](https://soldobbies.com)launch
 * [ ] Public mint & secondary market listings
 * [ ] DAO
 * [ ] Launch [DCT token](../tokenomic/graphs-and-tables.md) & [NFT staking](../tokenomic/staking.md)
