@@ -23,6 +23,6 @@
   * 1,5% for users with our NFT's in wallet + gas
   * 3% for other players + gas
 
-
-
-\
+{% hint style="info" %}
+60% of all tax profits will be raised to NFT holders (staking only)
+{% endhint %}

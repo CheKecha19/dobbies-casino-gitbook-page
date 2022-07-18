@@ -6,7 +6,7 @@ description: 1 game mode
 
 ## About:
 
-### **`What is it?` **&#x20;
+### <mark style="color:red;">**`What is it?`**</mark>** **&#x20;
 
 You have probably seen similar boxes in ~~popular~~ games: buy a box and with some chance, you come across an ordinary, **rare** or **very rare** item. The principle is the same!&#x20;
 
@@ -14,7 +14,7 @@ For a modest fee, you get the opportunity to get **tokens**, like _**SOL**_ or _
 
 ## Game modes:
 
-### Tokens
+### <mark style="color:red;">Tokens</mark>
 
 #### How many tokens will be in each box?
 
@@ -28,7 +28,7 @@ For a modest fee, you get the opportunity to get **tokens**, like _**SOL**_ or _
 Each box will contain certain tokens (**SOL/DCT**, **NEAR/DCT**, **USDC/DCT**). \
 When you buy and open a lootbox, you have a chance to win a certain amount of tokens from the list above.
 
-### NFT
+### <mark style="color:red;">NFT</mark>
 
 #### `How many NFT will be in each box?`&#x20;
 

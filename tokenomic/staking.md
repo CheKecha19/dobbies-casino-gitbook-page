@@ -1,7 +1,5 @@
 # 💸 Staking
 
-Staking rewards period: **2 years**
-
 Formula for calculating daily rewards for NFT staking:
 
 $$
@@ -26,4 +24,8 @@ Staking coefficient (C):
 {% hint style="info" %}
 Max tokens per day: 102739.7 DCT per user (1 NFT in staking).\
 Min tokens per day: 20.55 DCT per user (all supply in staking, all stakers have 1 NFT)
+{% endhint %}
+
+{% hint style="info" %}
+Staking period: <mark style="color:red;">**2 years**</mark>
 {% endhint %}

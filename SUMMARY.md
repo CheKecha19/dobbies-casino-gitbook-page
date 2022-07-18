@@ -7,6 +7,7 @@
 * [🗣 Project info](about-us/project-info.md)
 * [😎 Team info](about-us/team-info.md)
 * [✅ Roadmap](about-us/roadmap.md)
+* [👀 Sneak peeks](about-us/sneak-peeks.md)
 
 ## Games info
 
