@@ -11,7 +11,6 @@
 * [ ] Launch Solana [lootboxes](../games-info/lootboxes.md)
 * [ ] Launch Solana [lucky tickets](../games-info/lucky-tickets.md)
 * [ ] Launch NEAR NFT collection
-* [ ] Rebranding Solana NFT collection (refresh pictures & metadata; add staking coefficient)
 
 ## Q4 22
 
