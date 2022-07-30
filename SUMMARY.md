@@ -32,4 +32,4 @@
 
 * [Discord](https://discord.gg/BAQTWUmD/Q6zV7t9a)
 * [Twitter](https://twitter.com/dobbes\_casino)
-* [Website (on work)](https://soldobbies.com/)
+* [Website (on work)](https://ewoolabs.xyz)
