@@ -30,6 +30,6 @@
 
 ***
 
-* [Discord](https://discord.gg/BAQTWUmD/Q6zV7t9a)
-* [Twitter](https://twitter.com/dobbes\_casino)
+* [Discord](https://discord.gg/ewoolabs)
+* [Twitter](https://twitter.com/EWOO\_labs)
 * [Website (on work)](https://ewoolabs.xyz)
