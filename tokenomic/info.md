@@ -2,16 +2,24 @@
 
 ## About:
 
+**"**<mark style="color:blue;">**EWOO Labs**</mark>**"** ecosystem combines the digital economy with live events, material goods and a physical community. <mark style="color:orange;">**$DCT**</mark>** ** was created to exploit the economic potential of the ecosystem.&#x20;
 
+<mark style="color:orange;">**$DCT**</mark>** ** has a wide range of use cases: In addition to protocol management, <mark style="color:orange;">**$DCT**</mark>** ** can be used to purchase items in the ecosystem, as well as as in-game currency for our games in the "<mark style="color:blue;">**EWOO Labs**</mark>**"** ecosystem.&#x20;
 
-1. Fees earned from staking/gaming rewards will be allocated to $DCT staker rewards, gaming rewards and treasury.
+## <mark style="color:blue;">EWOO labs</mark> DAO Mission
+
+Drive value for NFT & <mark style="color:orange;">**$DCT**</mark> token holders through strong utility & demand. In other words, we drive <mark style="color:orange;">**$DCT**</mark> value from **Strong Utility & Demand**, not hype or engineered tokenomics
+
+### The <mark style="color:blue;">EWOO labs</mark> Token, $DCT, will serve multiple functions:
+
+1. Fees earned from staking/gaming rewards will be allocated to <mark style="color:orange;">**$DCT**</mark> staking rewards, gaming rewards and treasury.
 2. Incentivize Investors to invest in top-performing vaults
 3. Incentivize Gamers to playing in our games and discount on vault fees
 4. Facilitate decentralized governance
 
-The native digital cryptographically-secured token of <mark style="color:blue;">EWOO labs</mark> ($DCT) is a transferable representation of attributed governance and utility functions specified in the protocol/code of <mark style="color:blue;">EWOO labs</mark>, and which is designed to be used solely as an interoperable utility/rewarding token on the platform.
+The native digital cryptographically-secured token of <mark style="color:blue;">EWOO labs</mark> (<mark style="color:orange;">**$DCT**</mark>) is a transferable representation of attributed governance and utility functions specified in the protocol/code of <mark style="color:blue;">EWOO labs</mark>, and which is designed to be used solely as an interoperable utility/rewarding token on the platform.
 
-$DCT is a non-refundable functional utility token which will be used as the medium of exchange between users of Hawksight in a decentralized manner.  $DCT will provide convenient and secure mode of payment and settlement between users who interact within the ecosystem on <mark style="color:blue;">EWOO labs</mark>, and it is not, and not intended to be, a medium of exchange accepted by the public (or a section of the public) as payment for goods or services or for the discharge of a debt; nor is it designed or intended to be used by any person as payment for any goods or services whatsoever that are not exclusively provided by the issuer.&#x20;
+<mark style="color:orange;">**$DCT**</mark> is a non-refundable functional utility token which will be used as the medium of exchange between users of <mark style="color:blue;">EWOO labs</mark> in a decentralized manner.  <mark style="color:orange;">**$DCT**</mark> will provide convenient and secure mode of payment and settlement between users who interact within the ecosystem on <mark style="color:blue;">EWOO labs</mark>, and it is not, and not intended to be, a medium of exchange accepted by the public (or a section of the public) as payment for goods or services or for the discharge of a debt; nor is it designed or intended to be used by any person as payment for any goods or services whatsoever that are not exclusively provided by the issuer.&#x20;
 
 ### <mark style="color:orange;">$DCT</mark> and Creator fees
 
